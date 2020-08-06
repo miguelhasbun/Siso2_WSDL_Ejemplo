@@ -1,2 +1,4 @@
-# Siso2_WSDL_Ejemplo
-Ejemplo para tarea de la clase de Sistemas Operativos II, del período Q4_2020
+# WSDL Ejemplo
+Este es un ejemplo de WSDL hecho en Java.
+
+[Link del video](https://youtu.be/78NwUbnTISc)
